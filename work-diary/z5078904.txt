@@ -1,0 +1,12 @@
+Week 1
+Group formed. I created the Jira & GitHub accounts. Together with Luke, Jerry & Tim, add extra product features for E-commerce web app. 
+I also found and discussed with the team all available software tools and libraries that we can use for the project.
+Programming language tools:
+	- frontend: REACT JavaScript (yarn? npm?)
+	- backend: python (flask?)
+	- database: postgresql
+	- docker (depends on teams, to have a constant working environment)
+	- job processor (need to find one, for concurrent jobs)
+
+
+
