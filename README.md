@@ -1,6 +1,8 @@
 E-Commerce Site
 
-Admin
+Features
+
+Admin:
 - Normal
   - Sign up 
   - Login/logout
@@ -17,7 +19,7 @@ Admin
   - Comment on reviews etc 
   - Analyze customer most liked type of product
 
-User
+User:
 - Normal
   - Sign up 
   - Login/logout
@@ -39,9 +41,6 @@ User
   - Feature: show some features about a product
   - Use google maps API to check products listed near your location 
   - Customer can see admins/all recommendation products
-
-
-
 
 
 Members:
