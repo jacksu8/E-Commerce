@@ -1,0 +1,11 @@
+week 1:
+  - Brainstorming ideas for project. 
+  - Decided roughly on making an ecommerce web app with a chatbot or some tool 
+  to enhance experience on app.
+  - research frontend tools (react/vue/etc).
+  
+week 2:
+  - finalising ideas and features.
+  - Brainstorming and deciding on tools to use for backend and frontend.
+  - research backend tools (firebase/heroku/etc).
+  - write up users stories to add to Jira.
