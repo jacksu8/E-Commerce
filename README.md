@@ -1,4 +1,4 @@
-This project has Transfered to gitlab private account
+This project has Transfered to UNSW github private account
 
 
 E-Commerce Site
